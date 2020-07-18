@@ -3,7 +3,7 @@
     <nav>
       <div class="header-text">
         <router-link :to="'/'">
-          <h3>Country Info.</h3>
+          <h3>Where in the world?</h3>
         </router-link>
       </div>
       <div class="toggle-btn">
